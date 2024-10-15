@@ -1,0 +1,8 @@
+<!-- res/values/strings.xml -->
+<resources>
+    <string name="title_login">Login</string>
+    <string name="title_register">Registration</string>
+    <string name="title_welcome">Welcome</string>
+    <string name="title_user_account">User Account</string>
+    <string name="title_preferred_products">Preferred Products</string>
+</resources>
