@@ -1,6 +1,5 @@
 # Android Login and Registration
-Android Login And Registration application with MySQL and SQLite Databases. The application is capale of registering user and authenticate the user with the details that
-are provided during registration.
+Welcome to the Android Login and Registration Application! This application provides a seamless user experience for registering and authenticating users using Firebase's Real-Time Database. Additionally, it offers functionalities for managing user information and maintaining a personalized list of preferred products using SQLite.
 ## Screenshots
 
 <p>
@@ -13,6 +12,10 @@ are provided during registration.
 - Registration
 - Login
 - Structured Query Language
-
-One can find apk file of the app <a href='https://drive.google.com/open?id=18olt85iqEkW2MvlDpDqH5Ksdal1twYyx'>here</a>.
-
+- MainActivity.java
+- LoginSucess.java
+- UserAccount.java
+- UserAccount.java
+- ListProducts.java
+- Product.java
+- DatabaseHelper.java
